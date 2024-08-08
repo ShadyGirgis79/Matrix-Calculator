@@ -1,0 +1,20 @@
+﻿  Major Task.cpp
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(43,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(115,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(158,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(233,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(343,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(31,22): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(35,22): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(57,26): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(63,24): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(129,22): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(135,20): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(150,22): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(172,26): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(178,24): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(247,26): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(253,24): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(310,30): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(357,30): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shody\source\repos\Major Task\Major Task.cpp(363,28): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
